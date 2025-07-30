@@ -627,4 +627,4 @@ Route::get('resources', function() {
     return view('layoutPages/research_and_reports/resources');
 })->name('resources');
 
-// Route::get('/search',[FightPovertyController::class,'search']);
+// Route::get('/search',[FightPovertyController::class,'search']); This might be Jobs Website
